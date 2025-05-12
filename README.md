@@ -20,3 +20,4 @@ git remote add origin https://github.com/EVA-ATOM/evo_core.git
 
 :: PUSH SYSTEM TO GITHUB
 git push -u origin master
+bash: python--version:
