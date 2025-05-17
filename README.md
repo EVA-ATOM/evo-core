@@ -33,4 +33,4 @@ bash: python--version:
 - `main_evolocker.py`: Launches fold and EVA
 - `modules/`: Contains the full fold and interaction scripts
 - `run_evolocker.bat`: One-click launcher for Windows
-- 
+- Simulated content for README_EXECUTE_FIRST.txt
